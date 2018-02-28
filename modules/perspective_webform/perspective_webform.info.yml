@@ -1,0 +1,9 @@
+name: Perspective Webform
+description: Google Perspective API integration for Webform.
+type: module
+package: Field types
+core: 8.x
+dependencies:
+  - 'drupal:node'
+  - 'perspective:perspective'
+  - 'webform:webform'
